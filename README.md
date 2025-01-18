@@ -1,6 +1,6 @@
 
 ```markdown
-# Hi there, I'm PatforJesus! 👋
+# Hi there, I'm TeachMastermindPat! 👋
 
 I am a passionate developer who loves coding and building meaningful projects. My journey has been driven by a deep interest in technology and a desire to use it for positive impact.
 
@@ -33,18 +33,18 @@ I am a passionate developer who loves coding and building meaningful projects. M
 
 ## 📫 How to Reach Me
 
-- **Email:** patforjesus@example.com
-- **LinkedIn:** [PatforJesus](https://www.linkedin.com/in/patforjesus)
-- **Twitter:** [@PatforJesus](https://twitter.com/Patforjesus)
+- **Email:**patrickoto91africacryptochainx@gmail.com
+- **LinkedIn:** TeachMastermindPat (https://www.linkedin.com/in/patforjesus)
+- **Twitter:** https://x.com/Cryptorollermin?t=9xRsbB6Tob0w2sST0m1dEA&s=09(https://twitter.com/Patforjesus)
 
 ---
 
 ## ✨ Projects & Contributions
 
-- **[Project A](https://github.com/PatforJesus/ProjectA):** Description of Project A.
-- **[Project B](https://github.com/PatforJesus/ProjectB):** Description of Project B.
-- **[Project C](https://github.com/Patforjesus/ProjectC):** Description of Project C.
-- **[ACCXBOT](https://github.com/PatforJesus/ACCXBOT):** Description of ACCXBOT.
+- **[Project A](https://github.com/TeachMastermindPat/ProjectA):** Description of Project A.
+- **[Project B](https://github.com/TeachMastermindPat/ProjectB):** Description of Project B.
+- **[Project C](https://github.com/TeachMastermindPat/ProjectC):** Description of Project C.
+- **[ACCXBOT](https://github.com/TeachMastermindPat/ACCXBOT):** Description of ACCXBOT.
 
 
 <!---
